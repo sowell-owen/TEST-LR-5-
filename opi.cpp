@@ -3,8 +3,9 @@
 
 int main()
 {
+	using namespace std;
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	std::cout << "Привіт, Антон Каракулін\n";
+	cout << "Привіт, Антон Каракулін\n";
 }
