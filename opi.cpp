@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-	int k = 3, m;
-	m = 2;
-	double R = 4 + k - m;
+	int n = 7, g;
+	g = 12;
+	double R = 8 + n - g;
 	printf("R = %lf", R);
 }
